@@ -1,4 +1,4 @@
-https://HelloHeart.github.io/linkedin/
+https://helloheart.github.io/linkedin/
 
 Turns out you don't actually need a linkedin account to have a linkedin account. 
 
